@@ -17,7 +17,7 @@ Mod for recording the O3 osd to file on the DJI goggles V2
 - or `opkg upgrade /tmp/O3-OSD-recording_1.0.0_pigeon-glasses-v2.ipk` if the version is newer
 
 ##### Known issues
-- Since the OSD frames are stored with a time stamp, it syncs quite well with the action footage even over long recordings, but it needs to be aligned manually in the video editor. Also I've noticed over very long periods (40 minuts+) the sync can be a few hundred ms off.
+- Since the OSD frames are stored with a time stamp, it syncs quite well with the action footage even over long recordings, but it needs to be aligned manually in the video editor. Also, I've noticed over very long periods (40 minutes) the sync can start to become worse.
 
 ##### Credits
 - Thanks to Joonas and SNEAKY_FPV for the help when developing this!
