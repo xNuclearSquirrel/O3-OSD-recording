@@ -3,7 +3,8 @@ Mod for recording the O3 osd to file on the DJI goggles V2
 
 ## NOTES
 - This is a work in progress
-- The mod creates a .osd file on the goggles V2 SD card when flying with the O3 Air Unit, similarly to the OSD recording feature with the current wtfos hack. However currently they are not compatible with the online overlay tool. If you want a working solution to create and overlay you can use this python tool: https://github.com/xNuclearSquirrel/O3_OverlayTool
+- The mod creates a .osd file on the goggles V2 SD card when flying with the O3 Air Unit.
+  It works similarly to the OSD recording feature with the current wtfos hack with the Vista or original Air Unit. However currently they are not compatible with the online overlay tool. If you want a working solution to create and overlay you can use this python tool: https://github.com/xNuclearSquirrel/O3_OverlayTool
 - The .osd file is recorded using the timestamp of the internal clock of the goggles so it is best overlayed over air unit side footage, since the goggle side dvr has missing frames which can create a mismatch.
 
 ##### Install
