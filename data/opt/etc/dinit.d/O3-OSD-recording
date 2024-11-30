@@ -1,0 +1,3 @@
+type = scripted
+command = modmanager enable fpv_glasses O3-OSD-recording
+stop-command = modmanager disable fpv_glasses O3-OSD-recording
