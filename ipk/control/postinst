@@ -1,2 +1,2 @@
 #!/system/bin/sh
-/opt/sbin/dinitctl -u enable O3-OSD-recording || true
+/opt/sbin/dinitctl -u enable o3-osd-recording || true
